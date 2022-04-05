@@ -9,4 +9,6 @@ Git y Github son herramientas muy poderosas para hacer proyectos y trabajar en c
 + git log
 + git add
 + git commit 
-+ git
++ creando un repositorio en github
++copiando repositorios a nuestra computadora
++ subiendo nuestro primer repositorio a github
